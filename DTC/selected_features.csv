@@ -4,13 +4,13 @@ tenure
 MonthlyCharges
 InternetService_Fiber optic
 PaperlessBilling_Yes
-PaymentMethod_Electronic check
+gender_Male
 Partner_Yes
-SeniorCitizen
-Dependents_Yes
 OnlineSecurity_Yes
+PaymentMethod_Electronic check
+Dependents_Yes
 TechSupport_Yes
+SeniorCitizen
 PaymentMethod_Mailed check
-Contract_One year
-StreamingMovies_No internet service
-StreamingMovies_Yes
+MultipleLines_Yes
+DeviceProtection_Yes

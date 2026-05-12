@@ -1,23 +1,31 @@
 Feature,Importance
-TotalCharges,0.2255475968580116
-tenure,0.2225819273341154
-MonthlyCharges,0.19969001666037367
-InternetService_Fiber optic,0.10497394108472635
-PaperlessBilling_Yes,0.030681449039548107
-PaymentMethod_Electronic check,0.03044080934265954
-Partner_Yes,0.022043047875146528
-SeniorCitizen,0.01974864385968272
-Dependents_Yes,0.01964132434524218
-OnlineSecurity_Yes,0.018832677588180555
-TechSupport_Yes,0.01617455643020329
-PaymentMethod_Mailed check,0.014407711191528677
-Contract_One year,0.014073808662827408
-StreamingMovies_No internet service,0.013414510439111868
-StreamingMovies_Yes,0.013310292150757953
-Contract_Two year,0.012439605554614682
-StreamingTV_Yes,0.011429205586637577
-PaymentMethod_Credit card (automatic),0.010394206942230833
-StreamingTV_No internet service,0.0001746690544009073
-TechSupport_No internet service,0.0
+TotalCharges,0.218622010481484
+tenure,0.19983905229140925
+MonthlyCharges,0.16796772091355075
+InternetService_Fiber optic,0.10482380339286423
+PaperlessBilling_Yes,0.029724105000483357
+gender_Male,0.028301817907962986
+Partner_Yes,0.02304276236925636
+OnlineSecurity_Yes,0.021315792913330946
+PaymentMethod_Electronic check,0.01942139554103122
+Dependents_Yes,0.019180228542580422
+TechSupport_Yes,0.018382466963495613
+SeniorCitizen,0.017432616870713857
+PaymentMethod_Mailed check,0.017341587228647114
+MultipleLines_Yes,0.015878471388706707
+DeviceProtection_Yes,0.013748309064953545
+OnlineBackup_No internet service,0.013395324500068547
+Contract_Two year,0.012729124044028046
+OnlineBackup_Yes,0.012645235057806908
+StreamingMovies_Yes,0.011951794816651769
+Contract_One year,0.011818555325613244
+PaymentMethod_Credit card (automatic),0.010011043091466368
+StreamingTV_Yes,0.009464426225712357
+MultipleLines_No phone service,0.0015022178914541927
+PhoneService_Yes,0.000837212333414151
+DeviceProtection_No internet service,0.0006229258433141006
 InternetService_No,0.0
 OnlineSecurity_No internet service,0.0
+TechSupport_No internet service,0.0
+StreamingTV_No internet service,0.0
+StreamingMovies_No internet service,0.0
